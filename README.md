@@ -534,19 +534,4 @@ SaleCondition: Condition of sale
        Partial	Home was not completed when last assessed (associated with New Homes)
 
 
-[x] Understand the dataset:
-        a. Identify the shape of the dataset
-        b. Identify variables with null values
-        c. Identify variables with unique values
-[x] Generate a separate dataset for numerical and categorical variables
-[x] EDA of numerical variables:
-        a. Missing value treatment
-        b. Identify the skewness and distribution
-        c. Identify significant variables using a correlation matrix 
-        d. Pair plot for distribution and density
-[x] EDA of categorical variables
-        a. Missing value treatment
-        b. Count plot for bivariate analysis
-        c. Identify significant variables using p-values and Chi-Square values
-[x] Combine all the significant categorical and numerical variables
-[x] Plot box plot for the new dataset to find the variables with outliers
+Markup:- Task1
