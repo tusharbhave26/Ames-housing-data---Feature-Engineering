@@ -533,5 +533,21 @@ SaleCondition: Condition of sale
        Family	Sale between family members
        Partial	Home was not completed when last assessed (associated with New Homes)
 
+## Steps that was performed 
 
-Markup:- Task1
+1. Understand the dataset:
+   1. Identify the shape of the dataset
+   2.  Identify variables with null values
+   3.  Identify variables with unique values
+2. Generate a separate dataset for numerical and categorical variables
+3. EDA of numerical variables:
+   1. Missing value treatment
+   2. Identify the skewness and distribution
+   3. Identify significant variables using a correlation matrix
+   4. Pair plot for distribution and density
+4. EDA of categorical variables
+   1. Missing value treatment
+   2. Count plot for bivariate analysis
+   3. Identify significant variables using p-values and Chi-Square values
+5. Combine all the significant categorical and numerical variables
+6. Plot box plot for the new dataset to find the variables with outliers
