@@ -535,7 +535,7 @@ SaleCondition: Condition of sale
 
 ## Steps that was performed 
 
-1. Understand the dataset:
+-[x] Understand the dataset:
    1. Identify the shape of the dataset
    2.  Identify variables with null values
    3.  Identify variables with unique values
